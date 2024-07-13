@@ -2,6 +2,12 @@
 
 ## Project Description: Predicting SpaceX Falcon 9 First Stage Landing Success
 
+
+![image](https://github.com/user-attachments/assets/1daafee8-e6c2-42b3-986d-c5d0c4550744)
+
+
+
+
 ### Project Scenario and Overview
 
 The commercial space age is here, marked by significant advancements and affordability in space travel. Companies such as Virgin Galactic, Rocket Lab, Blue Origin, and SpaceX are at the forefront of this revolution. SpaceX, in particular, has achieved remarkable milestones, including:
